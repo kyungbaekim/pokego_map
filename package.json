@@ -1,0 +1,27 @@
+{
+  "name": "Callback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-google-maps-native": "^2.0.0",
+    "angular-moment": "^1.0.0-beta.6",
+    "angular-route": "^1.5.7",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.4",
+    "mongoose-deep-populate": "^3.0.0",
+    "twitter": "^1.3.0",
+    "twitter-node-client": "0.0.6"
+  }
+}
