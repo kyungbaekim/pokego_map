@@ -14,6 +14,5 @@ myAppModule.factory('tweetsFactory', function($http){
       callback(data);
     })
   }
-
   return factory;
 });
